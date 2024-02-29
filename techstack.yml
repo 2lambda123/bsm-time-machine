@@ -2,7 +2,7 @@ repo_name: 2lambda123/bsm-time-machine
 report_id: 2422683489dc61f974d08fc0c37fc4cd
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:56:27+00:00'
+timestamp: '2024-02-29T19:16:28+00:00'
 requested_by: 2lambda123
 provider: github
 branch: main
@@ -422,6 +422,13 @@ tools:
   detection_source: requirements.txt
   last_updated_by: Michael
   last_updated_on: 2023-10-07 21:18:25.000000000 Z
+  vulnerabilities:
+  - name: fonttools XML External Entity Injection (XXE) Vulnerability
+    cve_id: CVE-2023-45139
+    cve_url: https://github.com/advisories/GHSA-6673-4983-2vx5
+    detected_date: Jan 10
+    severity: high
+    first_patched: 4.43.0
 - name: idna
   description: Internationalized Domain Names in Applications
   package_url: https://pypi.org/project/idna
