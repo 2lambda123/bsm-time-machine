@@ -3,15 +3,15 @@
 ## Tech Stack
 2lambda123/bsm-time-machine is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [NumPy](http://www.numpy.org/) – Data Science Tools
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- [Python](https://www.python.org) – Languages
+- [Matplotlib](http://matplotlib.org) – Charting Libraries
 - [Pandoc](https://pandoc.org/) – File Conversion
 - [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- [Matplotlib](http://matplotlib.org) – Charting Libraries
-- [SciPy](http://www.scipy.org) – Data Science Tools
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
 - [IPython](http://ipython.org/index.html) – Shells
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [SciPy](http://www.scipy.org) – Data Science Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -21,15 +21,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/bsm-time-machine is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/2330/no-img-open-source.png' alt='Pandoc'/> [Pandoc](https://pandoc.org/) – File Conversion
 - <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
 - <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/bsm-time-machine](https://github.com/2lambda123/bsm-time-machine)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|73<br/>Tools used|01/09/24 <br/>Report generated|
+|73<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -183,7 +183,7 @@ Full tech stack [here](/techstack.md)
 |[defusedxml](https://pypi.org/project/defusedxml)|v0.7.1|10/07/23|Michael |Python-2.0|N/A|
 |[executing](https://pypi.org/project/executing)|v1.2.0|10/07/23|Michael |MIT|N/A|
 |[fastjsonschema](https://pypi.org/project/fastjsonschema)|v2.16.3|10/07/23|Michael |BSD-3-Clause|N/A|
-|[fonttools](https://pypi.org/project/fonttools)|v4.38.0|10/07/23|Michael |MIT|N/A|
+|[fonttools](https://pypi.org/project/fonttools)|v4.38.0|10/07/23|Michael |MIT|[CVE-2023-45139](https://github.com/advisories/GHSA-6673-4983-2vx5) (High)|
 |[idna](https://pypi.org/project/idna)|v3.4|10/07/23|Michael |BSD-3-Clause|N/A|
 |[ipykernel](https://pypi.org/project/ipykernel)|v6.21.2|10/07/23|Michael |BSD-3-Clause|N/A|
 |[ipywidgets](https://pypi.org/project/ipywidgets)|v8.0.4|10/07/23|Michael |BSD-3-Clause|N/A|
